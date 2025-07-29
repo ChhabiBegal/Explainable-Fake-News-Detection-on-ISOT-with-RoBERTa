@@ -1,3 +1,4 @@
+# Explainable_Fake_News_Detection_on_ISOT_with_RoBERTa
 This project implements a fake news detection system using RoBERTa, a transformer-based language model, and enhances its interpretability with LIME (Local Interpretable Model-agnostic Explanations). The goal is to classify news articles as real or fake while providing explainable predictions, helping users understand the key words or phrases that influenced the model's decisions.
 
 Datasets:
