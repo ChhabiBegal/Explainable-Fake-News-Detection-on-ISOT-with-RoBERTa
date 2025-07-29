@@ -13,16 +13,5 @@ Hugging Face transformers and datasets libraries
 LIME for model interpretability
 Matplotlib for evaluation visualization
 
-Project Structure:
-├── data/
-│   └── balanced_isot.csv
-├── models/
-│   └── best_model/ (saved RoBERTa model)
-├── lime_explainer.py
-├── train_roberta.py
-├── evaluate.py
-├── requirements.txt
-└── README.md
-
 Objective:
 To build an interpretable and reliable fake news detection system that can be used by journalists, researchers, and fact-checkers to spot misinformation and understand the reasoning behind each prediction.
